@@ -1,1 +1,1 @@
-# 1 sondbox for git-training
+1 sondbox for git-training
