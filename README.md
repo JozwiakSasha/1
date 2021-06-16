@@ -1,1 +1,1 @@
-sondbox for git-training
+sandbox for git-training
